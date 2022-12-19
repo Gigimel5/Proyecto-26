@@ -1,2 +1,1 @@
-# Proyecto-26
-Péndulo
+# Plantilla 
